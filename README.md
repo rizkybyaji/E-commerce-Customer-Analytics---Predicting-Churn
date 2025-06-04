@@ -53,6 +53,3 @@ The dataset includes customer behavior information, transactions, and other rele
 ## 📈 Potential Improvements
 - Integrate a product recommendation system for at-risk customers.
 - Automate a real-time churn monitoring dashboard.
-
-## 📬 Contact
-For questions or collaborations, feel free to contact the contributors via GitHub or the email addresses listed on their profiles.
